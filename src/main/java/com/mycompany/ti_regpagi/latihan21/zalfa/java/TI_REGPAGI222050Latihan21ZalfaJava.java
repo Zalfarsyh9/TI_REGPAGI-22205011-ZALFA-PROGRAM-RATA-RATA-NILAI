@@ -11,6 +11,7 @@ import java.util.Scanner;
  Nama : Zalfa Rosiyah Riski
  Nim : 22205011
  Prodi : Teknik Infromatika
+ Deskripsi : Membuat program rata-rata nilai yang inputnya berasal dari user
  */
 public class TI_REGPAGI222050Latihan21ZalfaJava {
 
